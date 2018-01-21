@@ -2,11 +2,11 @@
 
 - A Java version of Lunar Lander game with a level editor.
 
-Terrains and landing pad can be reallocate in the edit panel by draging and double clicking (support undo and redo).
+- Terrains and landing pad can be reallocate in the edit panel by draging and double clicking (support undo and redo).
 
-Using keyboard WASD to guide the lunar lander to the landing pad without hitting the terrain or going out of bounds.
+- Using keyboard WASD to guide the lunar lander to the landing pad without hitting the terrain or going out of bounds.
 
-Speed and fuel info as well as game messages are shown at the top left (Green indicates safe speed, red indicates low on fuel).
+- Speed and fuel info as well as game messages are shown at the top left (Green indicates safe speed, red indicates low on fuel).
 
 Some Features:
 
